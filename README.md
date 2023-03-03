@@ -1,1 +1,2 @@
-#Sales Insights Dashboard - AtliQ Hardwares
+# **Sales Insights Dashboard** - AtliQ Hardwares
+This repository contains a Tableau dashboard that provides sales insights for AtliQ Hardware, a hardware distribution company in India that has been experiencing a decline in sales. The dashboard has been developed to help the company make data-driven decisions and improve its performance.
